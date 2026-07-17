@@ -53,13 +53,6 @@ I am a UX/UI Designer passionate about creating user-centered digital experience
 
 ---
 
-## Featured Projects
-
-| Project | Description | Role / Responsibilities |
-| :--- | :--- | :--- |
-| **FreshBites** | Food waste reduction application connecting restaurants with nearby customers. | <ul><li>UX Research</li><li>Wireframing & UI Design</li><li>Prototyping</li><li>Usability Testing</li></ul> |
-| **StoreMate Dashboard** | Comprehensive inventory analytics dashboard for seamless tracking and management. | <ul><li>Dashboard UX</li><li>Data Visualization</li><li>Front-end Development</li></ul> |
-
 ---
 
 ## GitHub Stats
