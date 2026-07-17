@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=f24e1e,ff7262,a259ff,1abcfe,0acf83&height=200&section=header&text=Chutipong%20Suebangpra&fontSize=50&fontColor=ffffff&animation=fadeIn&bgColor=000000" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=f24e1e,a259ff&height=200&section=header&text=Chutipong%20Suebangpra&fontSize=50&fontColor=ffffff&animation=fadeIn&bgColor=000000" alt="Header" />
   
   <h3>UX/UI Designer & Developer</h3>
   <p><i>Designing meaningful digital experiences through research, simplicity, and usability.</i></p>
@@ -69,5 +69,5 @@ I am a UX/UI Designer passionate about creating user-centered digital experience
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=f24e1e,ff7262,a259ff,1abcfe,0acf83&height=100&section=footer&bgColor=000000" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=f24e1e,a259ff&height=100&section=footer&bgColor=000000" width="100%" alt="Footer" />
 </div>
