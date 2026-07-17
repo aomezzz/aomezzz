@@ -1,59 +1,63 @@
-# Aomezzz
+<div align="center">
 
-UX/UI Designer • Software Engineering
+# Chutipong SuaBangPhra
 
-I design user-centered digital experiences by combining research, usability, and visual design to solve real-world problems.
+### UX/UI Designer • Software Engineering Student
+
+Designing digital experiences that are simple, meaningful, and user-centered.
+
+<br>
+
+[Portfolio](https://canva.link/3rqrn7py7cje8wm) •
+[LinkedIn](https://www.linkedin.com/in/chutipong-suebangpra/) •
+<a href="mailto:chutipong.sbp@gmail.com">Email</a>
+
+</div>
 
 ---
 
 ## About
 
-- UX/UI Designer
-- Software Engineering Student
-- Interested in Product Design
-- Passionate about User Research & Design Systems
-- Learning Front-end Development with React & TypeScript
+I'm a UX/UI Designer and a Software Engineering student who enjoys solving real user problems through thoughtful design.
+
+I believe that good design is not just about aesthetics—it is about creating intuitive, accessible, and enjoyable experiences.
+
+Currently interested in
+
+- UX Research
+- Product Design
+- Design System
+- Mobile Application
+- Dashboard Design
+- Front-end Development
 
 ---
 
 ## Design Process
 
+```text
 Research
-
-↓
-
+    ↓
 User Flow
-
-↓
-
+    ↓
 Wireframe
-
-↓
-
+    ↓
 UI Design
-
-↓
-
+    ↓
 Prototype
-
-↓
-
+    ↓
 Usability Testing
-
-↓
-
+    ↓
 Iteration
+```
 
 ---
 
-## Tools
+## Tech Stack
 
-| Design | Development | Collaboration |
-|---------|-------------|---------------|
-| Figma | React | Notion |
-| FigJam | TypeScript | Miro |
-| Photoshop | HTML/CSS | Git |
-| Illustrator | JavaScript | GitHub |
+<p>
+<img src="https://skillicons.dev/icons?i=figma,react,ts,js,html,css,tailwind,git,github,vscode,mysql" />
+</p>
 
 ---
 
@@ -61,10 +65,12 @@ Iteration
 
 ### FreshBites
 
-A mobile application that helps restaurants reduce food waste by selling surplus food at discounted prices.
+A mobile application that helps restaurants reduce food waste by connecting surplus food with nearby customers at discounted prices.
 
 **Role**
+
 - UX Research
+- User Interview
 - Wireframing
 - UI Design
 - Prototype
@@ -74,25 +80,43 @@ A mobile application that helps restaurants reduce food waste by selling surplus
 
 ### StoreMate Dashboard
 
-Admin dashboard for inventory analytics and sales monitoring.
+Dashboard for inventory management, analytics, and sales monitoring.
 
 **Role**
+
 - Dashboard Design
 - Data Visualization
 - Front-end Development
 
 ---
 
-## GitHub
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default)
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
+</p>
 
 ---
 
 ## Contact
 
-Portfolio
+📁 Portfolio  
+https://canva.link/3rqrn7py7cje8wm
 
-LinkedIn
+💼 LinkedIn  
+https://www.linkedin.com/in/chutipong-suebangpra/
 
-Email
+📧 Email  
+chutipong.sbp@gmail.com
+
+---
+
+<div align="center">
+
+*"Design is not just what it looks like and feels like. Design is how it works."*
+
+— Steve Jobs
+
+</div>
