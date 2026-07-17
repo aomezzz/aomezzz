@@ -37,22 +37,19 @@ I am a UX/UI Designer passionate about creating user-centered digital experience
 ## Toolbox
 
 ### Design & Prototyping
-<img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" /> &nbsp;
-<img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="Google Labs" /> &nbsp;
-<img src="https://cdn.simpleicons.org/anthropic/D97757" height="40" alt="Claude" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,gcp" alt="Design Tools" />
+</a>
 
 ### Development
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" /> &nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" /> &nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" /> &nbsp;
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" /> &nbsp;
-<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" /> &nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" alt="Development Tools" />
+</a>
 
 ### Collaboration
-<img src="https://cdn.simpleicons.org/github/333333" height="40" alt="GitHub" /> &nbsp;
-<img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="Notion" /> &nbsp;
-<img src="https://cdn.simpleicons.org/miro/050038" height="40" alt="Miro" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=github,notion" alt="Collaboration Tools" />
+</a>
 
 ---
 
@@ -68,8 +65,8 @@ I am a UX/UI Designer passionate about creating user-centered digital experience
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aomezzz&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0EA5E9&text_color=334155&icon_color=0284C7" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomezzz&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=0EA5E9&text_color=334155" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aomezzz&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomezzz&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=94A3B8" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
