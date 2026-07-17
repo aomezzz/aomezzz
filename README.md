@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Chutipong
 
-<!--
-**aomezzz/aomezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UX/UI Designer & Software Engineering Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 4th Year Software Engineering Student
+- 🎨 Interested in UX/UI Design
+- 💻 Frontend Developer
+- 🌱 Currently learning React, TypeScript, Next.js
+
+## Skills
+
+- Figma
+- React
+- TypeScript
+- Tailwind CSS
+- HTML/CSS
+- Git
+
+## Contact
+
+- Email: example@gmail.com
+- Portfolio: https://yourportfolio.com
