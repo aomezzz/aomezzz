@@ -1,143 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8F9FA&height=220&section=header&text=Chutipong%20SuaBangPhra&fontSize=42&fontColor=2C2C2C&animation=fadeIn"/>
-
-# 👋 Hello, I'm Chutipong
-
-### UX/UI Designer • Software Engineering Student
+<h1>Chutipong Suebangpra</h1>
 
 <p>
-I design meaningful digital experiences through research, usability, and thoughtful visual design.
+UX/UI Designer • Software Engineering Student
+</p>
+
+<p>
+Designing thoughtful digital experiences through research,
+simplicity and usability.
 </p>
 
 <br>
 
-<a href="https://canva.link/3rqrn7py7cje8wm">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/chutipong-suebangpra/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:chutipong.sbp@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://canva.link/3rqrn7py7cje8wm">Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chutipong-suebangpra/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:chutipong.sbp@gmail.com">Email</a>
 
 </div>
 
 ---
 
-# About Me
+<table width="100%">
+<tr>
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<td width="50%" valign="top">
 
-🎓 4th Year Software Engineering Student
+## About
 
-🎨 Passionate about UX/UI Design
+I am a UX/UI Designer and Software Engineering student with a passion for creating intuitive digital products.
 
-📱 Mobile & Web Product Design
+My approach combines user research, interaction design, visual design, and front-end development to build experiences that are both functional and enjoyable.
 
-💡 User Research & Design Thinking
+</td>
 
-💻 React & TypeScript
+<td width="50%" valign="top">
 
-🌱 Currently improving Design System & Accessibility
+## Focus
 
-<br clear="right"/>
+- User Experience
+- User Interface
+- Design Systems
+- Accessibility
+- Mobile Applications
+- Dashboard Design
+- Front-end Development
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Design Process
-
-<div align="center">
+## Design Process
 
 ```text
-🔍 Research
-      │
-      ▼
-📝 User Flow
-      │
-      ▼
-📐 Wireframe
-      │
-      ▼
-🎨 UI Design
-      │
-      ▼
-📱 Prototype
-      │
-      ▼
-🧪 Usability Testing
-      │
-      ▼
-✨ Iterate
+Research
+
+↓
+
+User Interview
+
+↓
+
+User Flow
+
+↓
+
+Wireframe
+
+↓
+
+Interface Design
+
+↓
+
+Prototype
+
+↓
+
+Usability Testing
+
+↓
+
+Iteration
 ```
 
-</div>
-
 ---
 
-# Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,react,ts,js,html,css,tailwind,git,github,vscode,mysql,photoshop,illustrator"/>
-
-</div>
-
----
-
-# Featured Projects
+## Featured Projects
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🍞 FreshBites
+### FreshBites
 
-Reduce food waste by connecting restaurants with nearby customers.
+Food Waste Reduction Platform
 
-### My Role
+A mobile application connecting restaurants with nearby customers to reduce food waste while making quality meals more affordable.
+
+**Responsibilities**
 
 - UX Research
 - User Interview
-- Wireframe
+- Information Architecture
+- Wireframing
 - UI Design
-- Prototype
+- Interactive Prototype
 - Usability Testing
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=FreshBites"/>
+### StoreMate Dashboard
 
-</td>
+Inventory Analytics Platform
 
-</tr>
+An admin dashboard designed to simplify inventory management and visualize business performance through meaningful data.
 
-<tr>
+**Responsibilities**
 
-<td>
-
-## 📊 StoreMate Dashboard
-
-Inventory & Analytics Dashboard for store management.
-
-### My Role
-
-- Dashboard Design
+- Dashboard UX
 - Data Visualization
-- Front-end Development
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=StoreMate"/>
+- Responsive Interface
+- React Development
 
 </td>
 
@@ -147,71 +140,92 @@ Inventory & Analytics Dashboard for store management.
 
 ---
 
-# GitHub Analytics
+## Toolbox
+
+<table>
+
+<tr>
+
+<td>
+
+### Design
+
+- Figma
+- FigJam
+- Adobe Illustrator
+- Adobe Photoshop
+
+</td>
+
+<td>
+
+### Development
+
+- React
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+
+</td>
+
+<td>
+
+### Collaboration
+
+- Git
+- GitHub
+- Notion
+- Miro
+- VS Code
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## GitHub Overview
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555&icon_color=4F46E5"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=000000"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=ffffff"/>
 
 </div>
 
 ---
 
-# Tools
+## Selected Work
 
-<div align="center">
-
-| UX/UI | Front-end | Collaboration |
-|:------:|:---------:|:-------------:|
-| Figma | React | Notion |
-| FigJam | TypeScript | Miro |
-| Photoshop | HTML/CSS | GitHub |
-| Illustrator | JavaScript | Slack |
-
-</div>
-
----
-
-# Contact
-
-<div align="center">
-
-### Let's build something meaningful together.
-
-<a href="https://canva.link/3rqrn7py7cje8wm">
-Portfolio
-</a>
-
-•
-
-<a href="https://www.linkedin.com/in/chutipong-suebangpra/">
-LinkedIn
-</a>
-
-•
-
-<a href="mailto:chutipong.sbp@gmail.com">
-Email
-</a>
-
-</div>
+| Project | Description |
+|---------|-------------|
+| FreshBites | UX Case Study focused on reducing food waste |
+| StoreMate Dashboard | Analytics Dashboard for Inventory Management |
+| Portfolio | Personal UX/UI Design Portfolio |
 
 ---
 
 <div align="center">
 
-> **"Great design begins with empathy and ends with simplicity."**
+### Contact
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8F9FA&height=120&section=footer"/>
+<a href="https://canva.link/3rqrn7py7cje8wm">Portfolio</a>
+
+<a href="https://www.linkedin.com/in/chutipong-suebangpra/">LinkedIn</a>
+
+<a href="mailto:chutipong.sbp@gmail.com">chutipong.sbp@gmail.com</a>
+
+<br><br>
+
+<sub>
+Designed with simplicity, inspired by Apple Human Interface, Linear and Vercel.
+</sub>
 
 </div>
