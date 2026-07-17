@@ -1,122 +1,217 @@
 <div align="center">
 
-# Chutipong SuaBangPhra
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8F9FA&height=220&section=header&text=Chutipong%20SuaBangPhra&fontSize=42&fontColor=2C2C2C&animation=fadeIn"/>
+
+# 👋 Hello, I'm Chutipong
 
 ### UX/UI Designer • Software Engineering Student
 
-Designing digital experiences that are simple, meaningful, and user-centered.
+<p>
+I design meaningful digital experiences through research, usability, and thoughtful visual design.
+</p>
 
 <br>
 
-[Portfolio](https://canva.link/3rqrn7py7cje8wm) •
-[LinkedIn](https://www.linkedin.com/in/chutipong-suebangpra/) •
-<a href="mailto:chutipong.sbp@gmail.com">Email</a>
+<a href="https://canva.link/3rqrn7py7cje8wm">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chutipong-suebangpra/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:chutipong.sbp@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## About
+# About Me
 
-I'm a UX/UI Designer and a Software Engineering student who enjoys solving real user problems through thoughtful design.
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I believe that good design is not just about aesthetics—it is about creating intuitive, accessible, and enjoyable experiences.
+🎓 4th Year Software Engineering Student
 
-Currently interested in
+🎨 Passionate about UX/UI Design
 
-- UX Research
-- Product Design
-- Design System
-- Mobile Application
-- Dashboard Design
-- Front-end Development
+📱 Mobile & Web Product Design
+
+💡 User Research & Design Thinking
+
+💻 React & TypeScript
+
+🌱 Currently improving Design System & Accessibility
+
+<br clear="right"/>
 
 ---
 
-## Design Process
+# Design Process
+
+<div align="center">
 
 ```text
-Research
-    ↓
-User Flow
-    ↓
-Wireframe
-    ↓
-UI Design
-    ↓
-Prototype
-    ↓
-Usability Testing
-    ↓
-Iteration
+🔍 Research
+      │
+      ▼
+📝 User Flow
+      │
+      ▼
+📐 Wireframe
+      │
+      ▼
+🎨 UI Design
+      │
+      ▼
+📱 Prototype
+      │
+      ▼
+🧪 Usability Testing
+      │
+      ▼
+✨ Iterate
 ```
 
----
-
-## Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,react,ts,js,html,css,tailwind,git,github,vscode,mysql" />
-</p>
+</div>
 
 ---
 
-## Featured Projects
+# Tech Stack
 
-### FreshBites
+<div align="center">
 
-A mobile application that helps restaurants reduce food waste by connecting surplus food with nearby customers at discounted prices.
+<img src="https://skillicons.dev/icons?i=figma,react,ts,js,html,css,tailwind,git,github,vscode,mysql,photoshop,illustrator"/>
 
-**Role**
+</div>
+
+---
+
+# Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🍞 FreshBites
+
+Reduce food waste by connecting restaurants with nearby customers.
+
+### My Role
 
 - UX Research
 - User Interview
-- Wireframing
+- Wireframe
 - UI Design
 - Prototype
 - Usability Testing
 
----
+</td>
 
-### StoreMate Dashboard
+<td width="50%">
 
-Dashboard for inventory management, analytics, and sales monitoring.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=FreshBites"/>
 
-**Role**
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 📊 StoreMate Dashboard
+
+Inventory & Analytics Dashboard for store management.
+
+### My Role
 
 - Dashboard Design
 - Data Visualization
 - Front-end Development
 
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=StoreMate"/>
+
+</td>
+
+</tr>
+
+</table>
+
 ---
 
-## GitHub Stats
+# GitHub Analytics
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"/>
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555&icon_color=4F46E5"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"/>
+
+</div>
 
 ---
 
-## Contact
+# Tools
 
-📁 Portfolio  
-https://canva.link/3rqrn7py7cje8wm
+<div align="center">
 
-💼 LinkedIn  
-https://www.linkedin.com/in/chutipong-suebangpra/
+| UX/UI | Front-end | Collaboration |
+|:------:|:---------:|:-------------:|
+| Figma | React | Notion |
+| FigJam | TypeScript | Miro |
+| Photoshop | HTML/CSS | GitHub |
+| Illustrator | JavaScript | Slack |
 
-📧 Email  
-chutipong.sbp@gmail.com
+</div>
+
+---
+
+# Contact
+
+<div align="center">
+
+### Let's build something meaningful together.
+
+<a href="https://canva.link/3rqrn7py7cje8wm">
+Portfolio
+</a>
+
+•
+
+<a href="https://www.linkedin.com/in/chutipong-suebangpra/">
+LinkedIn
+</a>
+
+•
+
+<a href="mailto:chutipong.sbp@gmail.com">
+Email
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Design is not just what it looks like and feels like. Design is how it works."*
+> **"Great design begins with empathy and ends with simplicity."**
 
-— Steve Jobs
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8F9FA&height=120&section=footer"/>
 
 </div>
