@@ -37,13 +37,22 @@ I am a UX/UI Designer passionate about creating user-centered digital experience
 ## Toolbox
 
 ### Design & Prototyping
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FigJam" /> <img src="https://img.shields.io/badge/Google_Labs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Labs" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" /> &nbsp;
+<img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="Google Labs" /> &nbsp;
+<img src="https://cdn.simpleicons.org/anthropic/D97757" height="40" alt="Claude" />
 
 ### Development
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" /> &nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" /> &nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" /> &nbsp;
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" /> &nbsp;
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" /> &nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
 
 ### Collaboration
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /> <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
+<img src="https://cdn.simpleicons.org/github/333333" height="40" alt="GitHub" /> &nbsp;
+<img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="Notion" /> &nbsp;
+<img src="https://cdn.simpleicons.org/miro/050038" height="40" alt="Miro" />
 
 ---
 
