@@ -53,13 +53,19 @@ I am a UX/UI Designer passionate about creating user-centered digital experience
 
 ---
 
+## Featured Projects
+
+| Project | Description | Role / Responsibilities |
+| :--- | :--- | :--- |
+| **StoreMate Dashboard** | Comprehensive inventory analytics dashboard for seamless tracking and management. | <ul><li>Dashboard UX</li><li>Data Visualization</li><li>Front-end Development</li></ul> |
+
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aomezzz&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomezzz&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=94A3B8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aomezzz&show_icons=true&hide_border=true&bg_color=transparent&title_color=0EA5E9&text_color=737373&icon_color=0EA5E9" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomezzz&layout=compact&hide_border=true&bg_color=transparent&title_color=0EA5E9&text_color=737373" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
